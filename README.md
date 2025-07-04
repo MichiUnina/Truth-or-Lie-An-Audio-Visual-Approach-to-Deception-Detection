@@ -6,6 +6,9 @@ Deception detection represents a critical challenge in domains such as security,
 
 ![Alt text](https://github.com/MichiUnina/Truth-or-Lie-An-Audio-Visual-Approach-to-Deception-Detection/blob/main/img/Framework.png)
 
+## Dataset
+The dataset used in the experiments can be accessed at the following link: https://lit.eecs.umich.edu/downloads.html#Real-life%20Deception
+
 ## Authors
 * **Antonio Galli, Michela Gravina, Antonio Elia Pascarella, Francesco Di Serio, Daiana Cipollaro, Vincenzo Moscato, Carlo Sansone**
 * Reference: michela.gravina@unina.it, antonio.galli@unina.it
